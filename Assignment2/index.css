@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+main div{
+    background-color: lightcyan;
+    border-bottom: 1px solid brown;
+}
+.l{
+    font-size: 2rem;
+    position: sticky;
+    top: 0;
+    border: 1px solid black;
+}
+
+.l{
+    background-color: blue;
+}
+
+i{
+    font-size: 2rem;
+    color: blue;
+}
